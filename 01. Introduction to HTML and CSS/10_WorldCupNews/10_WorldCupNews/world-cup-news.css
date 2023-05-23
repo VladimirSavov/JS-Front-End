@@ -1,0 +1,32 @@
+#wrapper{
+    width: 700px;
+    height: 730px;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #a6e1ec;
+}
+.image1{
+    width: 200px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.image2{
+    width: 200px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.image3{
+    width: 200px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.text1{
+    color: #3f51b5;
+}
+.text2{
+    color: #3f51b5;
+}
+.text3{
+    color: #3f51b5;
+}

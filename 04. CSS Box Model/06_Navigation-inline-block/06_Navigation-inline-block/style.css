@@ -1,0 +1,15 @@
+html{
+    font-family:Helvetica, sans-serif;
+}
+nav{
+    display: inline-block;
+}
+a{
+    color: green;
+}
+header > h1{
+    font-size: 50px;
+}
+header{
+    display: inline-block;
+}

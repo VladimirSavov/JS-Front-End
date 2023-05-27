@@ -1,0 +1,21 @@
+html{
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(238, 238, 238);
+    color: rgb(51, 51, 51);
+}
+aside#right{
+    position: absolute;
+}
+img{
+    width: 37rem;
+}
+aside {
+    float: top;
+    width: 155px;
+    height: 200px;
+    padding-right: 25px;
+    margin-top: 25px;
+  }
+  article{
+    width: 600px;
+  }

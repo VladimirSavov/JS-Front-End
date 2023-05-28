@@ -1,0 +1,37 @@
+
+.viewport{
+    height: 100vh;
+}
+.viewport:first-child{
+    background-image: linear-gradient(
+        to right,
+         #0089ba,
+          #009bbe,
+           #00acb6,
+            #00bba2,
+             #48c787);
+}
+.viewport:last-of-type{
+    background-image: linear-gradient(
+        to right, #ba0080, #e52562, #fa5b42, #f98f1f, #e6c010);
+}
+.viewport .card{
+    width: 40vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+}
+.viewport .card img{
+    width: 100%;
+    box-shadow: 3px 8px 20px 5px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 8px 20px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 8px 20px 5px rgba(0,0,0,0.75);;
+}
+.viewport .card i{
+    width: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    color: white;
+}

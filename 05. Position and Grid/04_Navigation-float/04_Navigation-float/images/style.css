@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+a{
+    color: rgb(0, 102, 0);
+}
+img{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.25);
+}
+p:first-child{
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+nav{
+    display: inline-block;
+}
+li{
+    width: 20%;
+}
+img{
+    float: right;
+}
+article{
+    display: inline-block;
+    width: 60%;
+}
+aside{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    padding-left: 1px;
+}
+blockquote{
+    font-family: Georgia, serif;
+}

@@ -1,0 +1,14 @@
+ul{ 
+    margin-left: 0;
+     padding-left: 0; 
+     display: inline-block;
+}
+a{
+    border-radius: 50%;
+    transition: 300ms ease-in-out;
+    display: inline-block;
+}
+a:hover{
+    color: red;
+    
+}
